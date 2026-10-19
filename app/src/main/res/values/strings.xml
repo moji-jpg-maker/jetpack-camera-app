@@ -20,4 +20,7 @@
     <string name="jca_loading">Loading App…</string>
     <string name="camera_not_available">Camera not available</string>
     <string name="external_capture_uri_not_supplied">No parcelable URI is supplied for external capture.</string>
+    <string name="capture_notification_channel">Capture</string>
+    <string name="capture_camera_active">Camera capture is active</string>
+    <string name="capture_screen_active">Screen capture is active</string>
 </resources>

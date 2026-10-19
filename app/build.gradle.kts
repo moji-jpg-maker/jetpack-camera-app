@@ -104,6 +104,7 @@ android {
 dependencies {
     implementation(libs.androidx.tracing)
     implementation(project(":core:common"))
+    implementation(project(":core:capture"))
     implementation(project(":core:camera"))
     implementation(project(":core:camera:low-light"))
     implementation(project(":core:camera:postprocess"))
